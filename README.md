@@ -18,5 +18,6 @@
 </div>
 
 <div>
+  ![Snake animation](https://github.com/Tigasexe/Tigasexe/blob/output/github-contribution-grid-snake.svg)
   <img align="right" alt="Tigas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1083870423504126064/1097216021791776798/RpWCttYvWt1n2BSyIQbLkjTekqIt5xbwHjtFY6JzEoJwmGSjyP7LGVBNja3sR1KUNXuVrkNIs176-c-k-c0x00ffffff-no-rj.png">
 </div>
