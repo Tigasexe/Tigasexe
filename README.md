@@ -5,11 +5,17 @@
 
 <hr>
 
-<div>
-  <a href="https://github.com/Tigasexe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tigasexe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigasexe&layout=compact&include_all_langs_count=7&theme=react&count_private=true"/>
-</div>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Tigasexe&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Tigasexe&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tigasexe&show_icons=true" />
+</picture>
 
 <div>
   <img align="center" alt="Tigas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
