@@ -1,7 +1,7 @@
 ### Olá! Seja Bem Vindo(a) ao meu GitHub.
 
 - 💻 Programador em Aprendizado
-- 📚 Atualmente Estou Estudando Python, JavaScript, PHP, Html e Css.
+- 📚 Atualmente Estou Estudando Sql, Mysql, JavaScript, Python, Html e CSS.
 
 <hr>
 
